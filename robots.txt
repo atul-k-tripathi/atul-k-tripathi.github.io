@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://atul-k-tripathi.github.io/sitemap.xml
